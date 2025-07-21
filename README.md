@@ -2,9 +2,7 @@ TASK 1 : RESPONSIVE LANDING PAGE
 
 PAGE NAME : Prodigy Infotech
 
-Project Name: Bidyut | Web Dev Intern @ Prodigy InfoTech
-
-DESCRIPTION: A personal portfolio website created during an internship at Prodigy InfoTech, showcasing web development skills and services.
+DESCRIPTION: Create an interactive navigation menu that changes color or style Responsive when scrolled or when hovering over a menu item. The navigation Landing Page menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
 
 Features:
     Home Page: Welcomes users with a futuristic theme, offering "Get Started" and "View Work" options.
