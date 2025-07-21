@@ -26,6 +26,6 @@ SCREENSHOT OF WEBSITE
 
 ![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/814da11feb447e63d59bd2f5834c4e01bad6db6a/Screenshot%202025-07-21%20200842.png)
 
+![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/0acc808817a4dd5aefc4cfea726389cc98f1ffc7/Screenshot%202025-07-21%20200912.png)
+
 ![image alt]()
-
-
