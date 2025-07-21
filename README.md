@@ -24,7 +24,7 @@ SCREENSHOT OF WEBSITE
 
 ![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/e8ed7990f96e51a0800990a52fd377238302b18e/Screenshot%202025-07-21%20212335.png)
 
-![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/814da11feb447e63d59bd2f5834c4e01bad6db6a/Screenshot%202025-07-21%20200842.png)
+![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/422bd14b863c8d1efe692a54cec1bc785ea6f603/Screenshot%202025-07-21%20212352.png)
 
 ![image alt](https://github.com/Bidyut398/PRODIGY_WD_01/blob/0acc808817a4dd5aefc4cfea726389cc98f1ffc7/Screenshot%202025-07-21%20200912.png)
 
